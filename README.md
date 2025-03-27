@@ -593,6 +593,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Madhan K](https://madhank93.github.io)
 - [Madhur Dixit](https://madhurdixit13.github.io/Portfolio/)
 - [Madhurima Rawat](https://madhurimarawat.github.io/Portfolio-Website/) [Data Scientist & Frontend Developer]
+- [Madhvi Asthana](https://themadhvi.com/) [AI Engineer & Full Stack Developer]
 - [Mads Hougesen](https://mhouge.dk)
 - [Maduakor Emmanuel](https://emmajs.vercel.app)
 - [Madza](https://www.madza.dev/)
